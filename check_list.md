@@ -15,6 +15,7 @@ Logistique repas
 
  * Gaz + Réchaud
  * Allumettes/briquet
+ * Barbecue/charbon/allume feu/Grille
 
 ### Cuisson ###
 
@@ -71,6 +72,7 @@ Toilette
  * Médicaments
  * Mouchoirs
 
+
 Campement
 ---------
 
@@ -101,6 +103,7 @@ Manger & Boire
  * Bolognaise maison
  * Crême champignons / lardons / jambon
  * Crêpes
+ * Saucisse/feta/maïs/poivrons
  * Oignons
 
 #### Sauces simples ####
@@ -114,7 +117,7 @@ Manger & Boire
 ### Dessert ###
 
  * Compotes
- * Gâteaux?
+ * Gâteaux pour le goûter
 
 ### Apéro ###
 
@@ -123,16 +126,14 @@ Manger & Boire
  * Cacahuètes
  * Noix de cajou
 
-
 ### Petit-déjeuner  ###
 
- * Brioche
+ * Brioche/crakottes
  * Nutella (en plastique)
  * Café
  * Thé
  * sucre?
  * ...?
-
 
 ### Boissons ###
 
