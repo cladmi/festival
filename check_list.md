@@ -24,7 +24,7 @@ Logistique repas
  * Passoire
  * Poêles
  * Cuillère en bois
- * Eau/géricane
+ * Eau/jerrican
 
 ### Préparation ###
 
