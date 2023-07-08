@@ -58,7 +58,7 @@ Logistique repas
  * Produit vaisselle
  * Éponge
  * Brosse à vaisselle
- * Sopalin pour essuyer, finir de rincer
+ * Torchon vaisselle
  * Pierre à affuter
 
 
