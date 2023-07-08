@@ -35,8 +35,12 @@ Logistique repas
 ### Épices ###
 
  * Sel, poivre, épices
+ * Curry vert
+ * Sauce soja
  * Beurre, huile
  * Oignons
+ * Aïl
+ * Piment
 
 ### Manger & Boire ###
 
@@ -45,6 +49,9 @@ Logistique repas
  * Couverts
  * Tasses café
  * Thermos (pour du thé d'avance)
+ * Tupperware
+ * Sac isotherme
+ * Cornes
 
 ### Vaisselle ###
 
@@ -52,6 +59,7 @@ Logistique repas
  * Éponge
  * Brosse à vaisselle
  * Sopalin pour essuyer, finir de rincer
+ * Pierre à affuter
 
 
 Logistique
@@ -60,6 +68,8 @@ Logistique
  * Sacs poubelles
  * PQ
  * Lampe de poche
+ * Duct tape
+ * Batteries téléphones
 
 
 Toilette
@@ -72,6 +82,13 @@ Toilette
  * Médicaments
  * Mouchoirs
 
+Soleil
+------
+
+ * Tarp
+ * Crème solaire
+ * Chapeau
+
 
 Campement
 ---------
@@ -79,7 +96,7 @@ Campement
 ### Dormir ###
 
  * Tentes
- * Tapis / Matelas
+ * Tapis / Matelas
  * Sacs de couchage
  * Oreillers ?
  * Marteau pour les sardines
@@ -139,7 +156,7 @@ Manger & Boire
 
  * Bières
  * Eau
- * Soft / sirop
+ * Soft / sirop
 
 
 Le plus important
