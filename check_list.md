@@ -24,6 +24,7 @@ Logistique repas
  * Passoire
  * Poêles
  * Cuillère en bois
+ * Louche / Cuillère service
  * Eau/jerrican
 
 ### Préparation ###
